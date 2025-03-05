@@ -62,3 +62,6 @@ The entire project, including documentation, took me **over 2 hours**.
 
 ![image](https://github.com/user-attachments/assets/ffb43ba9-8cc0-4f4f-b23b-eeca836dcf8d)
 
+---
+### Additional Notes
+ I deleted the AWS resources to avoid costs, so this GitHub repository is the record of my work on this project. It includes all the steps and details to explain my      approach clearly.
