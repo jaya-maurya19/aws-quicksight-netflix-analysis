@@ -3,6 +3,9 @@
 ### Introduction  
 This project explores how **Amazon QuickSight**, a data analytics service, can be used to visualize datasets using graphs and charts.  
 
+![image](https://github.com/user-attachments/assets/53496384-b14e-4b40-ab5d-fce4df79b759)
+
+
 ### Project Overview  
 I used **Amazon QuickSight** to analyze the **Netflix dataset**, applying filters and creating interactive visualizations.  
 
